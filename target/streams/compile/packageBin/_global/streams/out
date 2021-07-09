@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/rpadmasr/Desktop/akkahttpfile/target/scala-2.13/akkahttpfile_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleHttpServerApp1$$anonfun$$nestedInanonfun$routes$3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rpadmasr/Desktop/akkahttpfile/target/scala-2.13/classes/SimpleHttpServerApp1$$anonfun$$nestedInanonfun$routes$3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleHttpServerApp1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rpadmasr/Desktop/akkahttpfile/target/scala-2.13/classes/SimpleHttpServerApp1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleHttpServer2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rpadmasr/Desktop/akkahttpfile/target/scala-2.13/classes/SimpleHttpServer2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleHttpServerApp1$$anonfun$$nestedInanonfun$routes$3$1$$anonfun$$nestedInanonfun$applyOrElse$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rpadmasr/Desktop/akkahttpfile/target/scala-2.13/classes/SimpleHttpServerApp1$$anonfun$$nestedInanonfun$routes$3$1$$anonfun$$nestedInanonfun$applyOrElse$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleHttpServer1$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rpadmasr/Desktop/akkahttpfile/target/scala-2.13/classes/SimpleHttpServer1$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleHttpServer2$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rpadmasr/Desktop/akkahttpfile/target/scala-2.13/classes/SimpleHttpServer2$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleHttpServerApp2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rpadmasr/Desktop/akkahttpfile/target/scala-2.13/classes/SimpleHttpServerApp2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleHttpServer1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rpadmasr/Desktop/akkahttpfile/target/scala-2.13/classes/SimpleHttpServer1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleHttpServer1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rpadmasr/Desktop/akkahttpfile/target/scala-2.13/classes/SimpleHttpServer1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleHttpServerApp2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rpadmasr/Desktop/akkahttpfile/target/scala-2.13/classes/SimpleHttpServerApp2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleHttpServerApp1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rpadmasr/Desktop/akkahttpfile/target/scala-2.13/classes/SimpleHttpServerApp1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleHttpServer2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rpadmasr/Desktop/akkahttpfile/target/scala-2.13/classes/SimpleHttpServer2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
